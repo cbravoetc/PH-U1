@@ -1,0 +1,7 @@
+{
+  "name": "ph-u1-cristhianbravo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
